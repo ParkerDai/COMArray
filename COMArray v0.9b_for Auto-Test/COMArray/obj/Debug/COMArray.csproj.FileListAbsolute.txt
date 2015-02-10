@@ -1,0 +1,160 @@
+C:\Documents and Settings\Philip Shu\My Documents\Visual Studio 2008\Projects\COMArray\COMArray\bin\Debug\COMArray.exe.config
+C:\Documents and Settings\Philip Shu\My Documents\Visual Studio 2008\Projects\COMArray\COMArray\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Philip Shu\My Documents\Visual Studio 2008\Projects\COMArray\COMArray\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Philip Shu\My Documents\Visual Studio 2008\Projects\COMArray\COMArray\obj\Debug\COMArray.csproj.GenerateResource.Cache
+C:\Documents and Settings\Philip Shu\My Documents\Visual Studio 2008\Projects\COMArray\COMArray\bin\Debug\COMArray.exe
+C:\Documents and Settings\Philip Shu\My Documents\Visual Studio 2008\Projects\COMArray\COMArray\bin\Debug\COMArray.pdb
+C:\Documents and Settings\Philip Shu\My Documents\Visual Studio 2008\Projects\COMArray\COMArray\obj\Debug\COMArray.exe
+C:\Documents and Settings\Philip Shu\My Documents\Visual Studio 2008\Projects\COMArray\COMArray\obj\Debug\COMArray.pdb
+C:\Documents and Settings\Philip Shu\My Documents\Visual Studio 2008\Projects\COMArray\COMArray\obj\Debug\ATOP.Properties.Resources.resources
+C:\Documents and Settings\Philip Shu\My Documents\Visual Studio 2008\Projects\COMArray v1.0\COMArray\bin\Debug\COMArray.exe.config
+C:\Documents and Settings\Philip Shu\My Documents\Visual Studio 2008\Projects\COMArray v1.0\COMArray\obj\Debug\COMArray.exe
+C:\Documents and Settings\Philip Shu\My Documents\Visual Studio 2008\Projects\COMArray v1.0\COMArray\obj\Debug\COMArray.pdb
+C:\Documents and Settings\Philip Shu\My Documents\Visual Studio 2008\Projects\COMArray v1.0\COMArray\bin\Debug\COMArray.exe
+C:\Documents and Settings\Philip Shu\My Documents\Visual Studio 2008\Projects\COMArray v1.0\COMArray\bin\Debug\COMArray.pdb
+C:\Documents and Settings\Philip Shu\My Documents\Visual Studio 2008\Projects\COMArray v1.0\COMArray\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Philip Shu\My Documents\Visual Studio 2008\Projects\COMArray v1.0\COMArray\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Philip Shu\My Documents\Visual Studio 2008\Projects\COMArray v1.0\COMArray\obj\Debug\ATOP.Properties.Resources.resources
+C:\Documents and Settings\Philip Shu\My Documents\Visual Studio 2008\Projects\COMArray v1.0\COMArray\obj\Debug\COMArray.csproj.GenerateResource.Cache
+C:\Documents and Settings\Philip Shu\桌面\COMArray v1.0\COMArray\bin\Debug\COMArray.exe.config
+C:\Documents and Settings\Philip Shu\桌面\COMArray v1.0\COMArray\obj\Debug\COMArray.exe
+C:\Documents and Settings\Philip Shu\桌面\COMArray v1.0\COMArray\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Philip Shu\桌面\COMArray v1.0\COMArray\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Philip Shu\桌面\COMArray v1.0\COMArray\obj\Debug\ATOP.Properties.Resources.resources
+C:\Documents and Settings\Philip Shu\桌面\COMArray v1.0\COMArray\obj\Debug\COMArray.csproj.GenerateResource.Cache
+C:\Documents and Settings\Philip Shu\桌面\COMArray v1.0\COMArray\bin\Debug\COMArray.exe
+C:\Documents and Settings\Philip Shu\桌面\COMArray v1.0\COMArray\bin\Debug\COMArray.pdb
+C:\Documents and Settings\Philip Shu\桌面\COMArray v1.0\COMArray\obj\Debug\COMArray.pdb
+C:\Documents and Settings\Administrator\桌面\COMArray v1.0\COMArray\bin\Debug\COMArray.exe.config
+C:\Documents and Settings\Administrator\桌面\COMArray v1.0\COMArray\bin\Debug\COMArray.exe
+C:\Documents and Settings\Administrator\桌面\COMArray v1.0\COMArray\bin\Debug\COMArray.pdb
+C:\Documents and Settings\Administrator\桌面\COMArray v1.0\COMArray\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\COMArray v1.0\COMArray\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\COMArray v1.0\COMArray\obj\Debug\ATOP.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\COMArray v1.0\COMArray\obj\Debug\COMArray.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\COMArray v1.0\COMArray\obj\Debug\COMArray.exe
+C:\Documents and Settings\Administrator\桌面\COMArray v1.0\COMArray\obj\Debug\COMArray.pdb
+C:\Documents and Settings\Administrator\桌面\COMArray v0.4b\COMArray\bin\Debug\COMArray.exe.config
+C:\Documents and Settings\Administrator\桌面\COMArray v0.4b\COMArray\obj\Debug\COMArray.exe
+C:\Documents and Settings\Administrator\桌面\COMArray v0.4b\COMArray\obj\Debug\COMArray.pdb
+C:\Documents and Settings\Administrator\桌面\COMArray v0.4b\COMArray\bin\Debug\COMArray.exe
+C:\Documents and Settings\Administrator\桌面\COMArray v0.4b\COMArray\bin\Debug\COMArray.pdb
+C:\Documents and Settings\Administrator\桌面\COMArray v0.4b\COMArray\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\COMArray v0.4b\COMArray\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\COMArray v0.4b\COMArray\obj\Debug\ATOP.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\COMArray v0.4b\COMArray\obj\Debug\COMArray.csproj.GenerateResource.Cache
+C:\Documents and Settings\Philip Shu\桌面\COMArray v0.4b\COMArray\bin\Debug\COMArray.exe.config
+C:\Documents and Settings\Philip Shu\桌面\COMArray v0.4b\COMArray\obj\Debug\COMArray.exe
+C:\Documents and Settings\Philip Shu\桌面\COMArray v0.4b\COMArray\obj\Debug\COMArray.pdb
+C:\Documents and Settings\Philip Shu\桌面\COMArray v0.4b\COMArray\bin\Debug\COMArray.exe
+C:\Documents and Settings\Philip Shu\桌面\COMArray v0.4b\COMArray\bin\Debug\COMArray.pdb
+C:\Documents and Settings\Philip Shu\桌面\COMArray v0.4b\COMArray\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Philip Shu\桌面\COMArray v0.4b\COMArray\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Philip Shu\桌面\COMArray v0.4b\COMArray\obj\Debug\ATOP.Properties.Resources.resources
+C:\Documents and Settings\Philip Shu\桌面\COMArray v0.4b\COMArray\obj\Debug\COMArray.csproj.GenerateResource.Cache
+C:\Documents and Settings\Philip Shu\桌面\WIP\COMArray v0.5\COMArray\bin\Debug\COMArray.exe.config
+C:\Documents and Settings\Philip Shu\桌面\WIP\COMArray v0.5\COMArray\obj\Debug\COMArray.exe
+C:\Documents and Settings\Philip Shu\桌面\WIP\COMArray v0.5\COMArray\obj\Debug\COMArray.pdb
+C:\Documents and Settings\Philip Shu\桌面\WIP\COMArray v0.5\COMArray\bin\Debug\COMArray.exe
+C:\Documents and Settings\Philip Shu\桌面\WIP\COMArray v0.5\COMArray\bin\Debug\COMArray.pdb
+C:\Documents and Settings\Philip Shu\桌面\WIP\COMArray v0.5\COMArray\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Philip Shu\桌面\WIP\COMArray v0.5\COMArray\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Philip Shu\桌面\WIP\COMArray v0.5\COMArray\obj\Debug\ATOP.Properties.Resources.resources
+C:\Documents and Settings\Philip Shu\桌面\WIP\COMArray v0.5\COMArray\obj\Debug\COMArray.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\COMArray v0.5\COMArray\bin\Debug\COMArray.exe.config
+C:\Documents and Settings\Administrator\桌面\COMArray v0.5\COMArray\bin\Debug\COMArray.exe
+C:\Documents and Settings\Administrator\桌面\COMArray v0.5\COMArray\bin\Debug\COMArray.pdb
+C:\Documents and Settings\Administrator\桌面\COMArray v0.5\COMArray\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\COMArray v0.5\COMArray\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\COMArray v0.5\COMArray\obj\Debug\ATOP.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\COMArray v0.5\COMArray\obj\Debug\COMArray.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\COMArray v0.5\COMArray\obj\Debug\COMArray.exe
+C:\Documents and Settings\Administrator\桌面\COMArray v0.5\COMArray\obj\Debug\COMArray.pdb
+C:\Documents and Settings\Philip Shu\桌面\COMArray v0.5\COMArray\bin\Debug\COMArray.exe.config
+C:\Documents and Settings\Philip Shu\桌面\COMArray v0.5\COMArray\obj\Debug\COMArray.exe
+C:\Documents and Settings\Philip Shu\桌面\COMArray v0.5\COMArray\obj\Debug\COMArray.pdb
+C:\Documents and Settings\Philip Shu\桌面\COMArray v0.5\COMArray\bin\Debug\COMArray.exe
+C:\Documents and Settings\Philip Shu\桌面\COMArray v0.5\COMArray\bin\Debug\COMArray.pdb
+C:\Documents and Settings\Philip Shu\桌面\COMArray v0.5\COMArray\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Philip Shu\桌面\COMArray v0.5\COMArray\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Philip Shu\桌面\COMArray v0.5\COMArray\obj\Debug\ATOP.Properties.Resources.resources
+C:\Documents and Settings\Philip Shu\桌面\COMArray v0.5\COMArray\obj\Debug\COMArray.csproj.GenerateResource.Cache
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.6\COMArray\bin\Debug\COMArray.exe.config
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.6\COMArray\obj\Debug\COMArray.exe
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.6\COMArray\obj\Debug\COMArray.pdb
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.6\COMArray\bin\Debug\COMArray.exe
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.6\COMArray\bin\Debug\COMArray.pdb
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.6\COMArray\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.6\COMArray\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.6\COMArray\obj\Debug\ATOP.Properties.Resources.resources
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.6\COMArray\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.6\COMArray\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Philip\桌面\WIP\複製 -COMArray v0.6\COMArray\bin\Debug\COMArray.exe.config
+C:\Documents and Settings\Philip\桌面\WIP\複製 -COMArray v0.6\COMArray\obj\Debug\COMArray.exe
+C:\Documents and Settings\Philip\桌面\WIP\複製 -COMArray v0.6\COMArray\obj\Debug\COMArray.pdb
+C:\Documents and Settings\Philip\桌面\WIP\複製 -COMArray v0.6\COMArray\bin\Debug\COMArray.exe
+C:\Documents and Settings\Philip\桌面\WIP\複製 -COMArray v0.6\COMArray\bin\Debug\COMArray.pdb
+C:\Documents and Settings\Philip\桌面\WIP\複製 -COMArray v0.6\COMArray\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Philip\桌面\WIP\複製 -COMArray v0.6\COMArray\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Philip\桌面\WIP\複製 -COMArray v0.6\COMArray\obj\Debug\ATOP.Properties.Resources.resources
+C:\Documents and Settings\Philip\桌面\WIP\複製 -COMArray v0.6\COMArray\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Philip\桌面\WIP\複製 -COMArray v0.6\COMArray\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.7\COMArray\bin\Debug\COMArray.exe.config
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.7\COMArray\obj\Debug\COMArray.exe
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.7\COMArray\obj\Debug\COMArray.pdb
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.7\COMArray\bin\Debug\COMArray.exe
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.7\COMArray\bin\Debug\COMArray.pdb
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.7\COMArray\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.7\COMArray\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.7\COMArray\obj\Debug\ATOP.Properties.Resources.resources
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.7\COMArray\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.7\COMArray\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Philip\Desktop\COMArray v0.9b\COMArray\bin\Debug\COMArray.exe.config
+C:\Users\Philip\Desktop\COMArray v0.9b\COMArray\obj\Debug\COMArray.exe
+C:\Users\Philip\Desktop\COMArray v0.9b\COMArray\obj\Debug\COMArray.pdb
+C:\Users\Philip\Desktop\COMArray v0.9b\COMArray\bin\Debug\COMArray.exe
+C:\Users\Philip\Desktop\COMArray v0.9b\COMArray\bin\Debug\COMArray.pdb
+C:\Users\Philip\Desktop\COMArray v0.9b\COMArray\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Philip\Desktop\COMArray v0.9b\COMArray\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Philip\Desktop\COMArray v0.9b\COMArray\obj\Debug\ATOP.Properties.Resources.resources
+C:\Users\Philip\Desktop\COMArray v0.9b\COMArray\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Philip\Desktop\COMArray v0.9b\COMArray\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Philip\Desktop\COMArray v0.9b\COMArray\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Philip\Desktop\COMArray v0.9b\COMArray\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.9b\COMArray\bin\Debug\COMArray.exe.config
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.9b\COMArray\obj\Debug\COMArray.exe
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.9b\COMArray\obj\Debug\COMArray.pdb
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.9b\COMArray\bin\Debug\COMArray.exe
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.9b\COMArray\bin\Debug\COMArray.pdb
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.9b\COMArray\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.9b\COMArray\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.9b\COMArray\obj\Debug\ATOP.Properties.Resources.resources
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.9b\COMArray\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.9b\COMArray\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.9b\COMArray\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Philip\桌面\WIP\COMArray v0.9b\COMArray\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\COMArray v0.9b\COMArray\bin\Debug\COMArray.exe.config
+C:\Documents and Settings\Administrator\桌面\COMArray v0.9b\COMArray\obj\Debug\COMArray.exe
+C:\Documents and Settings\Administrator\桌面\COMArray v0.9b\COMArray\obj\Debug\COMArray.pdb
+C:\Documents and Settings\Administrator\桌面\COMArray v0.9b\COMArray\bin\Debug\COMArray.exe
+C:\Documents and Settings\Administrator\桌面\COMArray v0.9b\COMArray\bin\Debug\COMArray.pdb
+C:\Documents and Settings\Administrator\桌面\COMArray v0.9b\COMArray\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\COMArray v0.9b\COMArray\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\COMArray v0.9b\COMArray\obj\Debug\ATOP.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\COMArray v0.9b\COMArray\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\COMArray v0.9b\COMArray\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\COMArray v0.9b\COMArray\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\COMArray v0.9b\COMArray\obj\Debug\GenerateResource.write.1.tlog
+D:\公司產品\ATC\Elle's program\Philip's\COMArray v0.9b\COMArray\bin\Debug\COMArray.exe.config
+D:\公司產品\ATC\Elle's program\Philip's\COMArray v0.9b\COMArray\obj\Debug\COMArray.exe
+D:\公司產品\ATC\Elle's program\Philip's\COMArray v0.9b\COMArray\obj\Debug\COMArray.pdb
+C:\Documents and Settings\Administrator\桌面\COMArray v0.9b_for Auto-Test\COMArray\bin\Debug\COMArray.exe.config
+C:\Documents and Settings\Administrator\桌面\COMArray v0.9b_for Auto-Test\COMArray\obj\Debug\COMArray.exe
+C:\Documents and Settings\Administrator\桌面\COMArray v0.9b_for Auto-Test\COMArray\obj\Debug\COMArray.pdb
+C:\Documents and Settings\Administrator\桌面\COMArray v0.9b_for Auto-Test\COMArray\bin\Debug\COMArray.exe
+C:\Documents and Settings\Administrator\桌面\COMArray v0.9b_for Auto-Test\COMArray\bin\Debug\COMArray.pdb
+C:\Documents and Settings\Administrator\桌面\COMArray v0.9b_for Auto-Test\COMArray\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\COMArray v0.9b_for Auto-Test\COMArray\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\COMArray v0.9b_for Auto-Test\COMArray\obj\Debug\ATOP.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\COMArray v0.9b_for Auto-Test\COMArray\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\COMArray v0.9b_for Auto-Test\COMArray\obj\Debug\GenerateResource.write.1.tlog
