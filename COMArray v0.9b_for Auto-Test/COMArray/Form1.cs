@@ -1538,7 +1538,8 @@ namespace WindowsFormsApplication1
             Thread.Sleep(1000);
             for (i = 0; i < max; i++)
             {
-                if (Convert.ToUInt32(Loss[i].Text) > sendlength || Convert.ToUInt32(Error[i].Text) > 0)
+                //if (Convert.ToUInt32(Loss[i].Text) > sendlength || Convert.ToUInt32(Error[i].Text) > 0)
+                if (Convert.ToUInt32(Loss[i].Text) > sendlength)
                 {
                     try
                     {
