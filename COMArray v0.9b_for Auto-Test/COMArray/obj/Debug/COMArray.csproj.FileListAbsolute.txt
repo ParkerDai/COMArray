@@ -158,3 +158,13 @@ C:\Documents and Settings\Administrator\桌面\COMArray v0.9b_for Auto-Test\COMA
 C:\Documents and Settings\Administrator\桌面\COMArray v0.9b_for Auto-Test\COMArray\obj\Debug\ATOP.Properties.Resources.resources
 C:\Documents and Settings\Administrator\桌面\COMArray v0.9b_for Auto-Test\COMArray\obj\Debug\GenerateResource.read.1.tlog
 C:\Documents and Settings\Administrator\桌面\COMArray v0.9b_for Auto-Test\COMArray\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\Git_Project\GitHub\csharpProject\COMArray\COMArray v0.9b_for Auto-Test\COMArray\bin\Debug\COMArray.exe.config
+C:\Documents and Settings\Administrator\桌面\Git_Project\GitHub\csharpProject\COMArray\COMArray v0.9b_for Auto-Test\COMArray\obj\Debug\COMArray.exe
+C:\Documents and Settings\Administrator\桌面\Git_Project\GitHub\csharpProject\COMArray\COMArray v0.9b_for Auto-Test\COMArray\obj\Debug\COMArray.pdb
+C:\Documents and Settings\Administrator\桌面\Git_Project\GitHub\csharpProject\COMArray\COMArray v0.9b_for Auto-Test\COMArray\bin\Debug\COMArray.exe
+C:\Documents and Settings\Administrator\桌面\Git_Project\GitHub\csharpProject\COMArray\COMArray v0.9b_for Auto-Test\COMArray\bin\Debug\COMArray.pdb
+C:\Documents and Settings\Administrator\桌面\Git_Project\GitHub\csharpProject\COMArray\COMArray v0.9b_for Auto-Test\COMArray\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Git_Project\GitHub\csharpProject\COMArray\COMArray v0.9b_for Auto-Test\COMArray\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\Git_Project\GitHub\csharpProject\COMArray\COMArray v0.9b_for Auto-Test\COMArray\obj\Debug\ATOP.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\Git_Project\GitHub\csharpProject\COMArray\COMArray v0.9b_for Auto-Test\COMArray\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\Git_Project\GitHub\csharpProject\COMArray\COMArray v0.9b_for Auto-Test\COMArray\obj\Debug\GenerateResource.write.1.tlog
